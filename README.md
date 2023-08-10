@@ -1,6 +1,6 @@
 <h1>Página de login e cadastro</h2>
 <br>
-<a href="https://loginecadastrobootstraap.vercel.app/index.html">Acessar a página</a>
+<a href="https://loginecadastrobootstraap.vercel.app/index.html" target="_blank">Acessar a página</a>
 <br>
 <h2>Página realizada com Bootstrap. </h1>
 <br>
